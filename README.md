@@ -1,6 +1,7 @@
 # Qr-code
 This mini-project perform a qr-code to scan and it designed by Tailwind-css 🍃
->The output css file got minified 🤏.
+>The output css file got minified 🤏.<br>
+>Try free <a href="https://ali-boorboor.github.io/Qr-code/">Demo</a>
 ```css
 .used-language-primary {
   @apply HTML
